@@ -12,5 +12,4 @@ def SingleNumber(arr):
             return arr[i]#return the element that appears only once
 
     return -1#if no single element is found
-
 print(SingleNumber([2,2,1]))
