@@ -5,10 +5,28 @@
 Find the element that appears more than half the times of the given array.
 
 ### Approach
-* Use a hashmap to store the frequency of the elements.
-* Traverse the array and update the counts dynamically.
-* If an element's frequency exceeds `n / 2` (where `n` is the length of the array), return it immediately.
+ use hashmap to store the given elements and traverse the array and update the freqencies and if element appears more than halftimes of the given array return it
 
 ### Complexity
-* **Time Complexity:** O(n) 
-* **Space Complexity:** O(n)
+* Time Complexity: O(n) 
+* Space Complexity: O(n)
+
+## 2.First non repeating elements in the array
+Find the element which is first non repeating in the array
+
+### Approach
+use hashmap to store the given elements and traverse the array and update the freqencies and use another for loop and traverse from left to right return the first non repeating element
+
+### Complexity
+* Time Complexity: O(n) 
+* Space Complexity: O(n)
+
+## 3.Frequency of the elements in the array
+Find the frequencies of the  elements in the array 
+
+### Approach
+use hashmap to store the given elements and traverse the array and update the freqencies and return the frequencies
+
+### Complexity
+* Time Complexity: O(n) 
+* Space Complexity: O(n)
