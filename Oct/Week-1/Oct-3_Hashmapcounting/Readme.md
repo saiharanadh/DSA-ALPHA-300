@@ -1,4 +1,4 @@
-# Array Problems
+# Hashmap Problems
 
 ## 1. Majority Element
 
