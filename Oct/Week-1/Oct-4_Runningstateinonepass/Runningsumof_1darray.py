@@ -7,5 +7,4 @@ def RunningSum(arr):
         result.append(sum)
 
     return result
-
 print(RunningSum([1, 2, 3, 4]))
