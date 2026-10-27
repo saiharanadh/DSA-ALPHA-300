@@ -9,5 +9,4 @@ def ReverseString(s):
         left+=1
         right-=1
     return s
-
 print(ReverseString(["S","A","I"]))
