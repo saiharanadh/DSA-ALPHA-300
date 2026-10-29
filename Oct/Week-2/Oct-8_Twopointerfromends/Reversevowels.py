@@ -18,5 +18,4 @@ def ReverseVowels(s):
             right -= 1
 
     return "".join(s)
-
 print(ReverseVowels("hello"))
