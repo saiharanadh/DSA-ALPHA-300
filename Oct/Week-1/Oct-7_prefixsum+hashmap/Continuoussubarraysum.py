@@ -11,6 +11,5 @@ def ContinuousSubarraySum(arr, k):
                 return True
         else:
             remainder[rem] = i
-
     return False
 print(ContinuousSubarraySum([23, 2, 4, 6, 7], 6))
